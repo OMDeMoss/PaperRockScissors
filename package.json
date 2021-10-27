@@ -1,0 +1,24 @@
+{
+  "name": "paperrockscissors",
+  "version": "1.0.0",
+  "description": "paper rock scissors game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OMDeMoss/PaperRockScissors.git"
+  },
+  "keywords": [
+    "paper",
+    "rock",
+    "scissors"
+  ],
+  "author": "Olivia DeMoss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OMDeMoss/PaperRockScissors/issues"
+  },
+  "homepage": "https://github.com/OMDeMoss/PaperRockScissors#readme"
+}
